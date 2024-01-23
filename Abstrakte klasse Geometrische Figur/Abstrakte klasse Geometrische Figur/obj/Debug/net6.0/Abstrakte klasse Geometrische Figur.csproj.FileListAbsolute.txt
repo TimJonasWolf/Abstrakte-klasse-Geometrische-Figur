@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\bin\Debug\net6.0\Abstrakte klasse Geometrische Figur.exe
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\bin\Debug\net6.0\Abstrakte klasse Geometrische Figur.deps.json
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\bin\Debug\net6.0\Abstrakte klasse Geometrische Figur.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\bin\Debug\net6.0\Abstrakte klasse Geometrische Figur.dll
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\bin\Debug\net6.0\Abstrakte klasse Geometrische Figur.pdb
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.dll
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\refint\Abstrakte klasse Geometrische Figur.dll
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.pdb
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\Abstrakte klasse Geometrische Figur.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\Abstrakte klasse Geometrische Figur\Abstrakte klasse Geometrische Figur\obj\Debug\net6.0\ref\Abstrakte klasse Geometrische Figur.dll
